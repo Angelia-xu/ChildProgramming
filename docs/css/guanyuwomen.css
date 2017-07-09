@@ -1,0 +1,65 @@
+body {
+    height: 100%;
+    font-family: Microsoft YaHei;
+}
+
+header {
+    background: #FFC866;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+#headStyle {
+    height: 100px;
+}
+
+#content {
+    text-align: center;
+}
+
+#content .name {
+    font-size: 20px;
+    color: #FF9800;
+    margin: 10px 0px;
+}
+
+#content .work {
+    font-size: 15px;
+    color: #000;
+    margin: 0px 0px;
+}
+
+#backImage1 {
+    width: 15%;
+    float: left;
+}
+
+#baoText {
+    width: 24%;
+    float: left;
+    margin-top: 120px;
+}
+
+#baoPhoto {
+    width: 50%;
+    float: right;
+}
+
+#huiPhoto {
+    width: 50%;
+    float: left;
+}
+
+#huiText {
+    padding-top: 120px;
+}
+
+#backImage2 {
+    width: 15%;
+    float: right;
+}
+
